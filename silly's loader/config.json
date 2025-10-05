@@ -1,0 +1,32 @@
+{
+    "FiveM": {
+        "path": "cheats\\fivem.exe",
+        "status": "Online",
+        "last_update": "0 Days Ago",
+        "version": "1.2"
+    },
+    "GTA5": {
+        "path": "cheats\\gta5.exe",
+        "status": "Online",
+        "last_update": "0 Days Ago",
+        "version": "1.2"
+    },
+    "CSGO": {
+        "path": "cheats\\csgo.exe",
+        "status": "Online",
+        "last_update": "0 Days Ago",
+        "version": "1.2"
+    },
+    "bo6": {
+        "path": "cheats\\bo6.exe",
+        "status": "Online",
+        "last_update": "0 Days Ago",
+        "version": "1.2"
+    },
+    "Minecraft": {
+        "path": "cheats\\mta.exe",
+        "status": "Online",
+        "last_update": "0 Days Ago",
+        "version": "1.2"
+    }
+}
